@@ -4,7 +4,7 @@ import os
 # Test dosyalarının yolları
 TEST_IMAGE = "ba12d440bdca22e01aaeba8e5011147f.jpeg"
 TEST_VIDEO = "v14044g50000cv9hg8vog65pe82rf2g0.mp4"
-BASE_URL = "http://localhost:8000"
+BASE_URL = "https://analytics-service-main-services.up.railway.app"
 
 def test_text_analysis():
     """Metin analizi testi"""
